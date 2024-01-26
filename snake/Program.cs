@@ -31,8 +31,8 @@ int speed = 5;
 var keyd = ConsoleKey.UpArrow;
 List<int> sx = new List<int>() { x / 2, x / 2 };
 List<int> sy = new List<int>() { y / 2, y / 2 };
-//List<int> ax = new List<int>() { x / 2, x / 2 };
-//List<int> ay = new List<int>() { y / 2, y / 2 };
+List<int> ax = new List<int>() { x / 2, x / 2 };
+List<int> ay = new List<int>() { y / 2, y / 2 };
 
 
 
