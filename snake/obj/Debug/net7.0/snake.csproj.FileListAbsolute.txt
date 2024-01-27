@@ -1,0 +1,14 @@
+C:\Users\m1k0_\Source\Repos\m6rshm3ll0w\Projects\snake\bin\Debug\net7.0\snake.exe
+C:\Users\m1k0_\Source\Repos\m6rshm3ll0w\Projects\snake\bin\Debug\net7.0\snake.deps.json
+C:\Users\m1k0_\Source\Repos\m6rshm3ll0w\Projects\snake\bin\Debug\net7.0\snake.runtimeconfig.json
+C:\Users\m1k0_\Source\Repos\m6rshm3ll0w\Projects\snake\bin\Debug\net7.0\snake.dll
+C:\Users\m1k0_\Source\Repos\m6rshm3ll0w\Projects\snake\bin\Debug\net7.0\snake.pdb
+C:\Users\m1k0_\Source\Repos\m6rshm3ll0w\Projects\snake\obj\Debug\net7.0\snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m1k0_\Source\Repos\m6rshm3ll0w\Projects\snake\obj\Debug\net7.0\snake.AssemblyInfoInputs.cache
+C:\Users\m1k0_\Source\Repos\m6rshm3ll0w\Projects\snake\obj\Debug\net7.0\snake.AssemblyInfo.cs
+C:\Users\m1k0_\Source\Repos\m6rshm3ll0w\Projects\snake\obj\Debug\net7.0\snake.csproj.CoreCompileInputs.cache
+C:\Users\m1k0_\Source\Repos\m6rshm3ll0w\Projects\snake\obj\Debug\net7.0\snake.dll
+C:\Users\m1k0_\Source\Repos\m6rshm3ll0w\Projects\snake\obj\Debug\net7.0\refint\snake.dll
+C:\Users\m1k0_\Source\Repos\m6rshm3ll0w\Projects\snake\obj\Debug\net7.0\snake.pdb
+C:\Users\m1k0_\Source\Repos\m6rshm3ll0w\Projects\snake\obj\Debug\net7.0\snake.genruntimeconfig.cache
+C:\Users\m1k0_\Source\Repos\m6rshm3ll0w\Projects\snake\obj\Debug\net7.0\ref\snake.dll
